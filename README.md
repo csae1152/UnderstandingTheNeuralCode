@@ -6,6 +6,9 @@ With this repo i want to share my knowledge about minning massive datasets that 
 
 A connectome is a comprehensive map of neural connections in the brain, and may be thought of as its "wiring diagram". More broadly, a connectome would include the mapping of all neural connections within an organism's nervous system.
 
-How to use the blue print architecture of the brain for predective analysis.
+How to use the blue print architecture of the brain for predective analysis ?
+
+ - Predective analysis relies on statistics ( more or the less ).
+   ( Is our brain affected by statistics ?)
 
 
